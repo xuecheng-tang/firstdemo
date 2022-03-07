@@ -1,0 +1,2 @@
+# fistdemo
+Django test project
