@@ -1,2 +1,2 @@
-# fistdemo
+# firstdemo
 Django test project
